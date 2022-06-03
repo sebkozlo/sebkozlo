@@ -1,7 +1,7 @@
+<div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<div align="center">
+  
+# Hi I'm **Sebastian** 👋
 
-Hi I'm Sebastian.
-<br>
-Couple months ago I started my journey in programing.
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebkozlo)](https://github.com/sebkozlo/github-readme-stats)
-
+</div>
